@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AkashDavidKumar
+- 👀 I’m interested in creating website using HTML ,CSS .
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on creative web design and programming projects. 
+- 📫 How to reach me Email akashdavidkumar77@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact:  I enjoy experimenting with creative CSS designs! 
